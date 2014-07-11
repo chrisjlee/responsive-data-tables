@@ -1,0 +1,17 @@
+{
+  "name": "Responsive Data Tables",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chrisjlee/responsive-data-tables",
+  "authors": [
+    "Chris Lee <iam@chrisjlee.net>"
+  ],
+  "description": "Transform normal tables into responsive tables instantly with jQuery!",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
